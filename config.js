@@ -14,7 +14,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '30th anniversary of the Nov. 1 shooting at the University of Iowa',
-            description: 'The University of Iowa campus was rocked by one of the biggest tragedies in its history 30 years ago when former UI graduate student Gang Lu shot and killed five people, and injuring one. Three decades later, the U.S. still sees cases of gun violence at schools across the country and the UI campusis still feeling the effects of the shooting.',
+            description: 'The University of Iowa campus was rocked by one of the biggest tragedies in its history 30 years ago when former UI graduate student Gang Lu shot and killed five people, and injured one. Three decades later, the U.S. still sees cases of gun violence at schools across the country and the UI campus is still feeling the effects of the shooting.',
             location: {
               center: [-91.56783, 41.66372],
               zoom: 12.94,
